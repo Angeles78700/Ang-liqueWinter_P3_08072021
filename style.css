@@ -404,9 +404,7 @@ button {
   position: absolute;
   top: 2px;
   background: linear-gradient( 151deg, rgba(255, 121, 218, 1) 0%, rgba(147, 86, 220, 1) 100%);
-  -webkit-background-clip: text;
   background-clip: none;
-  -webkit-text-fill-color: transparent;
   opacity: 0;
 }
 
