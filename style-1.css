@@ -1,0 +1,1185 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&family=Shrikhand&display=swap");
+
+
+body {
+    margin: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+main {
+    max-width: 1860px;
+    margin: 0 auto;
+    ;
+}
+
+h1,
+.logo {
+    font-family: "Shrikhand", cursive;
+}
+
+h2,
+h3,
+p {
+    font-family: "Roboto", sans-serif;
+}
+
+.footer-titre h3,
+.logo {
+    font-family: "Shrikhand", cursive;
+}
+
+#card1 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+    0% {
+        transform: translateY(20px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+#card1 {
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card2 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 1.5s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card2 {
+    animation-name: fadeInUp;
+    animation-duration: 1.3s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card3 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 2s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card3 {
+    animation-name: fadeInUp;
+    animation-duration: 1.6s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card4 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 2.5s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card4 {
+    animation-name: fadeInUp;
+    animation-duration: 1.9s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card5 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 3s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card5 {
+    animation-name: fadeInUp;
+    animation-duration: 2.2s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card6 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 3.5s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card6 {
+    animation-name: fadeInUp;
+    animation-duration: 2.5s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card7 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 4s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card7 {
+    animation-name: fadeInUp;
+    animation-duration: 2.9s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card8 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 4.5s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card8 {
+    animation-name: fadeInUp;
+    animation-duration: 3.2s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card9 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 5s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card9 {
+    animation-name: fadeInUp;
+    animation-duration: 3.5s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+#card10 {
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+    animation-duration: 5.5s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#card10 {
+    animation-name: fadeInUp;
+    animation-duration: 3.9s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+
+/* header */
+
+header {
+    z-index: 10;
+    background: white;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 50px 10px 0;
+}
+
+header .header__arrowback {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 35px;
+    top: 40%;
+    font-size: 20px;
+}
+
+.fa-arrow-left {
+    padding-left: 10px;
+}
+
+.header_flecheretour {
+    transform: translateX(-10px);
+}
+
+header .header_flecheretour a {
+    color: #000;
+}
+
+.fas {
+    font-weight: 900;
+}
+
+.logo img {
+    object-fit: cover;
+    margin-left: 45px;
+}
+
+
+/* main + photo */
+
+.restaurant {
+    background-color: #f2f2f2;
+    margin-top: -3rem;
+    position: relative;
+    border-radius: 45px 45px 0 0;
+    margin-bottom: 20px;
+}
+
+.img-resto {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+}
+
+
+/* titre */
+
+.titre-principal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+    margin: 0 15px;
+    padding-top: 15px;
+}
+
+.titre-principal h1 {
+    font-size: 1.3rem;
+    /* padding-left: 25px; */
+    margin: 5px;
+    /* padding-top: 35px;
+    padding-bottom: 35px; */
+}
+
+.icon-heart {
+    display: inline-block;
+    text-align: right;
+    font-size: x-large;
+    transform: translateX(-70%);
+    cursor: pointer;
+    position: relative;
+}
+
+.icon-heart:hover .LikeCardGradeIcon {
+    opacity: 0;
+    color: black;
+}
+
+.icon-heart .LikeCardGradeIconFull {
+    transition: 1.2s;
+}
+
+.icon-heart:hover .LikeCardGradeIconFull {
+    opacity: 1;
+}
+
+.icon-heart .LikeCardGradeIcon {
+    transition: 1s;
+}
+
+.LikeCardGradeIconFull {
+    position: absolute;
+    background: linear-gradient( 151deg, rgba(255, 121, 218, 1) 0%, rgba(147, 86, 220, 1) 100%);
+    -webkit-background-clip: text;
+    background-clip: none;
+    -webkit-text-fill-color: transparent;
+    opacity: 0;
+}
+
+.fa-heart:before {
+    content: "\f004";
+    font-size: 30px;
+}
+
+
+
+/* bouton entrÃ©, plats, desserts */
+
+.title2 {
+    color: black;
+    font-weight: 300;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    width: 13%;
+    border-bottom: 3px solid #99E2D0;
+    padding-top: 25px;
+}
+
+i.far {
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.menu-resto {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.card-selection {
+    display: flex;
+    border-radius: 15px 15px 15px 15px;
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 0;
+    position: relative;
+}
+
+.card-selection h3 {
+    margin: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.card-selection p {
+    margin: 0.5rem;
+    font-size: 1rem;
+}
+
+.text-content {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.text-content .text {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.text-content .text h3,
+.text-content .text p {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.price {
+    font-weight: bolder;
+    margin: 0.5rem;
+    font-family: "Roboto", sans-serif;
+}
+
+.square-green {
+    width: 0;
+    opacity: 0;
+    border-radius: 0 15px 15px 0;
+    background: #99E2D0;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    overflow: hidden;
+}
+
+.card-selection:hover .square-green {
+    width: 20%;
+    opacity: 1;
+    transition: width 0.4s 0s linear;
+}
+
+.card-selection .square-green {
+    transition-duration: 1.3s;
+    opacity: 0;
+}
+
+.card-selection:hover .square-green .fa-check-circle {
+    transform: rotate(360deg);
+    transition: all .5s ease-in-out;
+}
+
+.fa-check-circle {
+    color: white;
+    transform: rotate(-0deg);
+    transition: all .5s ease-in-out;
+}
+
+.button-box {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -1.6rem;
+    background-color: #f2f2f2;
+}
+
+.button-explorer {
+    border: none;
+    border-radius: 25px 25px 25px 25px;
+    background: rgb(255, 121, 218);
+    background: linear-gradient(90deg, rgba(255, 121, 218, 1) 0%, rgba(147, 86, 220, 1) 100%);
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 18px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 100px;
+    margin-top: 65px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 30%);
+    transition: 0.7s;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    filter: brightness(1.1);
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 60%);
+    transition-duration: 0.7s;
+}
+
+
+/* footer */
+
+footer {
+    background-color: #403F3F;
+    padding-bottom: 30px;
+}
+
+.footer-titre {
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.footer-titre h3 {
+    color: white;
+    padding-bottom: 5px;
+}
+
+.ul-footer {
+    padding-left: 20px;
+}
+
+.ul-footer li {
+    padding-bottom: 10px;
+    padding-left: 8px;
+}
+
+.a {
+    color: white;
+    font-size: 1.1rem;
+}
+
+.fa-utensils,
+.fa-hands-helping {
+    color: white;
+    margin-right: 10px;
+}
+
+.administratif {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* version tablette */
+
+@media screen and (min-width: 421px) and (max-width: 1259px) {
+    /* header */
+    .header_flecheretour {
+    transform: translateX(-70px);
+}
+    .fas {
+        font-weight: 900;
+    }
+    .logo img {
+        object-fit: cover;
+        margin-left: 30px;
+    }
+    .restaurant {
+        background-color: #f2f2f2;
+        margin-top: -3rem;
+        position: relative;
+        border-radius: 45px 45px 0 0;
+        margin-bottom: 20px;
+    }
+    .img-resto {
+        width: 100%;
+        object-fit: cover;
+    }
+    
+    .titre-principal h1 {
+        font-size: 1.7rem;
+        /* padding-left: 25px;
+        margin: 0;
+        padding-top: 35px;
+        padding-bottom: 15px; */
+    }
+
+    .title2 {
+        color: black;
+        font-weight: 300;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        width: 13%;
+        border-bottom: 3px solid #99E2D0;
+    }
+
+    i.fa-heart {
+        margin-right: 5px;
+    }
+
+    i.far {
+        font-weight: 400;
+        font-size: 1.5rem;
+    }
+
+    .card-selection {
+        display: flex;
+        border-radius: 15px 15px 15px 15px;
+        background-color: white;
+        margin-bottom: 20px;
+        padding: 0;
+        position: relative;
+    }
+
+    .card-selection h3 {
+        margin: 0.5rem;
+        font-size: 1.1rem;
+    }
+
+    .card-selection p {
+        margin: 0.5rem;
+        font-size: 1rem;
+    }
+
+    .text-content {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        width: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .text-content .text {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .text-content .text h3,
+    .text-content .text p {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .price {
+        font-weight: bolder;
+        margin: 0.5rem;
+        /* position: absolute; */
+    }
+
+    #card-nom {
+        padding-right: 100px;
+    }
+
+    .button-box {
+        display: flex;
+        justify-content: space-around;
+        margin-top: -1.6rem;
+        background-color: #f2f2f2;
+    }
+
+    .button-explorer {
+        border: none;
+        border-radius: 25px 25px 25px 25px;
+        background: rgb(255, 121, 218);
+        background: linear-gradient(90deg, rgba(255, 121, 218, 1) 0%, rgba(147, 86, 220, 1) 100%);
+        color: white;
+        font-weight: 700;
+        font-size: 16px;
+        padding: 18px;
+        cursor: pointer;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-bottom: 100px;
+        margin-top: 65px;
+    }
+
+    /* footer */
+    footer {
+        background-color: #403F3F;
+        padding-bottom: 30px;
+    }
+
+    .footer-titre {
+        padding-top: 5px;
+        padding-left: 20px;
+    }
+
+    .footer-titre h3 {
+        color: white;
+    }
+
+    .ul-footer li {
+        padding-bottom: 10px;
+        padding-left: 8px;
+    }
+
+    .a {
+        color: white;
+        font-size: 1.1rem;
+    }
+
+    .fa-utensils,
+    .fa-hands-helping {
+        color: white;
+        margin-right: 10px;
+    }
+
+    .administratif {
+        color: white;
+    }
+}
+
+@media screen and (min-width: 1260px) {
+    .header_flecheretour {
+    transform: translateX(-70px);
+}
+    .fas {
+        font-weight: 900;
+    }
+
+    .logo img {
+        object-fit: cover;
+    }
+
+    .restaurant {
+        background-color: #f2f2f2;
+        margin-top: -3rem;
+        position: relative;
+        border-radius: 45px 45px 0 0;
+        margin-bottom: 20px;
+    }
+
+    .img-resto {
+        width: 100%;
+        height: 450px;
+        object-fit: cover;
+    }
+    
+    .titre-principal h1 {
+        font-size: 1.7rem;
+    }
+
+    .title2 {
+        color: black;
+        font-weight: 300;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        width: 13%;
+        border-bottom: 3px solid #99E2D0;
+    }
+
+    .icon-heart:hover .LikeCardGradeIcon {
+        opacity: 0;
+        color: black;
+    }
+
+    
+    .icon-heart:hover .LikeCardGradeIconFull {
+        opacity: 1;
+    }
+    
+    .menu-resto {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        column-gap: 1.5rem;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .card-selection {
+        display: flex;
+        border-radius: 15px 15px 15px 15px;
+        background-color: white;
+        margin-bottom: 20px;
+        padding: 0;
+        position: relative;
+    }
+    .card-selection h3 {
+        margin: 0.5rem;
+        font-size: 1.1rem;
+    }
+    .card-selection p {
+        margin: 0.5rem;
+        font-size: 1rem;
+    }
+    .text-content {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        width: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .text-content .text {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .text-content .text h3,
+    .text-content .text p {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .price {
+        font-weight: bolder;
+        margin: 0.5rem;
+        /* position: absolute; */
+    }
+    #card-nom {
+        padding-right: 100px;
+    }
+    .button-box {
+        display: flex;
+        justify-content: space-around;
+        margin-top: -1.6rem;
+        background-color: #f2f2f2;
+    }
+    .button-explorer {
+        border: none;
+        border-radius: 25px 25px 25px 25px;
+        background: rgb(255, 121, 218);
+        background: linear-gradient(90deg, rgba(255, 121, 218, 1) 0%, rgba(147, 86, 220, 1) 100%);
+        color: white;
+        font-weight: 700;
+        font-size: 16px;
+        padding: 18px;
+        cursor: pointer;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-bottom: 100px;
+        margin-top: 65px;
+    }
+    /* footer */
+    .footer-titre h3 {
+        margin-left: 30px;
+        font-size: 1.6rem;
+    }
+    .fa-utensils,
+    .fa-hands-helping {
+        color: white;
+        margin-right: 10px;
+    }
+    .footer-restaurants .ul-footer {
+        display: flex;
+        padding-top: 20px;
+    }
+    .ul-footer,
+    .a {
+        color: white;
+        font-size: 1.3rem;
+        padding-left: 100px;
+    }
+    .administratif {
+        padding-left: 50px;
+    }
+}
